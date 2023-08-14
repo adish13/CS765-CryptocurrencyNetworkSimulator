@@ -1,0 +1,86 @@
+Node 0, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 1, fast, block interarrival time : 15.200000000000001 Frac hashing power: 0.26
+Node 2, slow, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 3, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 4, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 5, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 6, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 7, slow, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 8, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 9, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 10, slow, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 11, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 12, slow, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 13, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 14, slow, block interarrival time : 15.200000000000001 Frac hashing power: 0.26
+Node 15, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 16, fast, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 17, slow, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 18, slow, block interarrival time : 152.0 Frac hashing power: 0.03
+Node 19, slow, block interarrival time : 152.0 Frac hashing power: 0.03
+====================
+Ratio
+Node 0: 1.0
+Node 1: 0.9428571428571428
+Node 2: 1.0
+Node 3: 1.0
+Node 4: 1.0
+Node 5: 1.0
+Node 6: 1.0
+Node 7: 1.0
+Node 8: 1.0
+Node 9: 1.0
+Node 10: 1.0
+Node 11: 1.0
+Node 12: 1.0
+Node 13: 0.5
+Node 14: 0.9047619047619048
+Node 15: 1.0
+Node 16: 0
+Node 17: 1.0
+Node 18: 1.0
+Node 19: 1.0
+====================
+No. of txns in longest chain
+Node 0: 7047
+Node 1: 7047
+Node 2: 7047
+Node 3: 7047
+Node 4: 7047
+Node 5: 7047
+Node 6: 7047
+Node 7: 7047
+Node 8: 7047
+Node 9: 7047
+Node 10: 7047
+Node 11: 7047
+Node 12: 7047
+Node 13: 7047
+Node 14: 7047
+Node 15: 7047
+Node 16: 7047
+Node 17: 7047
+Node 18: 7047
+Node 19: 7047
+====================
+Branch Lengths
+Node 0: [2, 12, 27, 77, 79, 95]
+Node 1: [2, 12, 27, 77, 79, 95]
+Node 2: [2, 12, 27, 77, 79, 95]
+Node 3: [2, 12, 27, 77, 79, 95]
+Node 4: [2, 12, 27, 77, 79, 95]
+Node 5: [2, 12, 27, 77, 79, 95]
+Node 6: [2, 12, 27, 77, 79, 95]
+Node 7: [2, 12, 27, 77, 79, 95]
+Node 8: [2, 12, 27, 77, 79, 95]
+Node 9: [2, 12, 27, 77, 79, 95]
+Node 10: [2, 12, 27, 77, 79, 95]
+Node 11: [2, 12, 27, 77, 79, 95]
+Node 12: [2, 12, 27, 77, 79, 95]
+Node 13: [2, 12, 27, 77, 79, 95]
+Node 14: [2, 12, 27, 77, 79, 95]
+Node 15: [2, 12, 27, 77, 79, 95]
+Node 16: [2, 12, 27, 77, 79, 95]
+Node 17: [2, 12, 27, 77, 79, 95]
+Node 18: [2, 12, 27, 77, 79, 95]
+Node 19: [2, 12, 27, 77, 79, 95]

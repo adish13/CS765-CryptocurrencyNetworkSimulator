@@ -1,0 +1,500 @@
+blockHash: 0
+blockNum: 0
+TimeOfArrival: 0
+parentBlockHash: -1
+====================
+blockHash: 7
+blockNum: 1
+TimeOfArrival: 7.736069448040594
+parentBlockHash: 0
+====================
+blockHash: 15
+blockNum: 1
+TimeOfArrival: 7.948142570946069
+parentBlockHash: 0
+====================
+blockHash: 23
+blockNum: 2
+TimeOfArrival: 16.383533489562513
+parentBlockHash: 7
+====================
+blockHash: 53
+blockNum: 3
+TimeOfArrival: 19.364675634778234
+parentBlockHash: 23
+====================
+blockHash: 69
+blockNum: 4
+TimeOfArrival: 19.920480077284896
+parentBlockHash: 53
+====================
+blockHash: 94
+blockNum: 5
+TimeOfArrival: 21.77761506514298
+parentBlockHash: 69
+====================
+blockHash: 116
+blockNum: 6
+TimeOfArrival: 22.575794498996007
+parentBlockHash: 94
+====================
+blockHash: 121
+blockNum: 7
+TimeOfArrival: 25.979387859539454
+parentBlockHash: 116
+====================
+blockHash: 144
+blockNum: 8
+TimeOfArrival: 28.88279727094994
+parentBlockHash: 121
+====================
+blockHash: 179
+blockNum: 9
+TimeOfArrival: 51.076205718860834
+parentBlockHash: 144
+====================
+blockHash: 191
+blockNum: 10
+TimeOfArrival: 51.530900845220806
+parentBlockHash: 179
+====================
+blockHash: 199
+blockNum: 11
+TimeOfArrival: 54.37916141965705
+parentBlockHash: 191
+====================
+blockHash: 206
+blockNum: 11
+TimeOfArrival: 54.280525135195404
+parentBlockHash: 191
+====================
+blockHash: 225
+blockNum: 12
+TimeOfArrival: 57.333548381039996
+parentBlockHash: 206
+====================
+blockHash: 242
+blockNum: 13
+TimeOfArrival: 60.245180709650135
+parentBlockHash: 225
+====================
+blockHash: 262
+blockNum: 14
+TimeOfArrival: 62.73559225036189
+parentBlockHash: 242
+====================
+blockHash: 285
+blockNum: 15
+TimeOfArrival: 87.90455860279916
+parentBlockHash: 262
+====================
+blockHash: 301
+blockNum: 16
+TimeOfArrival: 89.27377246095298
+parentBlockHash: 285
+====================
+blockHash: 321
+blockNum: 17
+TimeOfArrival: 98.85853390512302
+parentBlockHash: 301
+====================
+blockHash: 347
+blockNum: 18
+TimeOfArrival: 106.18013345982854
+parentBlockHash: 321
+====================
+blockHash: 372
+blockNum: 19
+TimeOfArrival: 114.08200250533248
+parentBlockHash: 347
+====================
+blockHash: 384
+blockNum: 20
+TimeOfArrival: 116.57968648536584
+parentBlockHash: 372
+====================
+blockHash: 410
+blockNum: 21
+TimeOfArrival: 117.71371880741022
+parentBlockHash: 384
+====================
+blockHash: 427
+blockNum: 22
+TimeOfArrival: 118.24663838616229
+parentBlockHash: 410
+====================
+blockHash: 448
+blockNum: 23
+TimeOfArrival: 119.11325257977255
+parentBlockHash: 427
+====================
+blockHash: 461
+blockNum: 24
+TimeOfArrival: 121.71623055813035
+parentBlockHash: 448
+====================
+blockHash: 496
+blockNum: 25
+TimeOfArrival: 125.80923450838742
+parentBlockHash: 461
+====================
+blockHash: 511
+blockNum: 26
+TimeOfArrival: 127.58382921341347
+parentBlockHash: 496
+====================
+blockHash: 507
+blockNum: 26
+TimeOfArrival: 127.71120719886963
+parentBlockHash: 496
+====================
+blockHash: 521
+blockNum: 27
+TimeOfArrival: 129.74613459103034
+parentBlockHash: 511
+====================
+blockHash: 553
+blockNum: 28
+TimeOfArrival: 130.2066030462187
+parentBlockHash: 521
+====================
+blockHash: 573
+blockNum: 29
+TimeOfArrival: 136.80336280802942
+parentBlockHash: 553
+====================
+blockHash: 581
+blockNum: 30
+TimeOfArrival: 137.04213603339952
+parentBlockHash: 573
+====================
+blockHash: 585
+blockNum: 31
+TimeOfArrival: 138.20726511895376
+parentBlockHash: 581
+====================
+blockHash: 627
+blockNum: 32
+TimeOfArrival: 139.35714460827595
+parentBlockHash: 585
+====================
+blockHash: 641
+blockNum: 33
+TimeOfArrival: 143.12946905415248
+parentBlockHash: 627
+====================
+blockHash: 667
+blockNum: 34
+TimeOfArrival: 144.58596131986312
+parentBlockHash: 641
+====================
+blockHash: 690
+blockNum: 35
+TimeOfArrival: 147.2260594681118
+parentBlockHash: 667
+====================
+blockHash: 711
+blockNum: 36
+TimeOfArrival: 147.6248038339657
+parentBlockHash: 690
+====================
+blockHash: 731
+blockNum: 37
+TimeOfArrival: 160.87653453638598
+parentBlockHash: 711
+====================
+blockHash: 743
+blockNum: 38
+TimeOfArrival: 168.09612330695037
+parentBlockHash: 731
+====================
+blockHash: 774
+blockNum: 39
+TimeOfArrival: 173.31447253887805
+parentBlockHash: 743
+====================
+blockHash: 780
+blockNum: 40
+TimeOfArrival: 174.12652824270418
+parentBlockHash: 774
+====================
+blockHash: 816
+blockNum: 41
+TimeOfArrival: 179.15702837814857
+parentBlockHash: 780
+====================
+blockHash: 821
+blockNum: 42
+TimeOfArrival: 182.290862445783
+parentBlockHash: 816
+====================
+blockHash: 843
+blockNum: 43
+TimeOfArrival: 187.95202358414022
+parentBlockHash: 821
+====================
+blockHash: 869
+blockNum: 44
+TimeOfArrival: 190.6626520844815
+parentBlockHash: 843
+====================
+blockHash: 897
+blockNum: 45
+TimeOfArrival: 192.9933136482125
+parentBlockHash: 869
+====================
+blockHash: 906
+blockNum: 46
+TimeOfArrival: 195.50559137825397
+parentBlockHash: 897
+====================
+blockHash: 930
+blockNum: 47
+TimeOfArrival: 195.7786891580423
+parentBlockHash: 906
+====================
+blockHash: 959
+blockNum: 48
+TimeOfArrival: 201.23147623854643
+parentBlockHash: 930
+====================
+blockHash: 977
+blockNum: 49
+TimeOfArrival: 211.0851291827455
+parentBlockHash: 959
+====================
+blockHash: 980
+blockNum: 50
+TimeOfArrival: 218.0567196875792
+parentBlockHash: 977
+====================
+blockHash: 1009
+blockNum: 51
+TimeOfArrival: 218.9954577497032
+parentBlockHash: 980
+====================
+blockHash: 1023
+blockNum: 52
+TimeOfArrival: 222.4039779388511
+parentBlockHash: 1009
+====================
+blockHash: 1040
+blockNum: 53
+TimeOfArrival: 227.0703047132422
+parentBlockHash: 1023
+====================
+blockHash: 1077
+blockNum: 54
+TimeOfArrival: 227.78437507126685
+parentBlockHash: 1040
+====================
+blockHash: 1082
+blockNum: 55
+TimeOfArrival: 230.92054394858633
+parentBlockHash: 1077
+====================
+blockHash: 1100
+blockNum: 56
+TimeOfArrival: 234.4723181419459
+parentBlockHash: 1082
+====================
+blockHash: 1120
+blockNum: 57
+TimeOfArrival: 237.99523276054356
+parentBlockHash: 1100
+====================
+blockHash: 1143
+blockNum: 58
+TimeOfArrival: 239.02688006554595
+parentBlockHash: 1120
+====================
+blockHash: 1175
+blockNum: 59
+TimeOfArrival: 246.6126315305015
+parentBlockHash: 1143
+====================
+blockHash: 1187
+blockNum: 60
+TimeOfArrival: 249.723419626966
+parentBlockHash: 1175
+====================
+blockHash: 1207
+blockNum: 61
+TimeOfArrival: 254.59397917114265
+parentBlockHash: 1187
+====================
+blockHash: 1234
+blockNum: 62
+TimeOfArrival: 259.36051047113506
+parentBlockHash: 1207
+====================
+blockHash: 1246
+blockNum: 63
+TimeOfArrival: 260.52967620152003
+parentBlockHash: 1234
+====================
+blockHash: 1260
+blockNum: 64
+TimeOfArrival: 267.57476810190093
+parentBlockHash: 1246
+====================
+blockHash: 1287
+blockNum: 65
+TimeOfArrival: 268.5560285148216
+parentBlockHash: 1260
+====================
+blockHash: 1301
+blockNum: 66
+TimeOfArrival: 275.85257838741427
+parentBlockHash: 1287
+====================
+blockHash: 1324
+blockNum: 67
+TimeOfArrival: 279.7393377002344
+parentBlockHash: 1301
+====================
+blockHash: 1351
+blockNum: 68
+TimeOfArrival: 282.4351022842376
+parentBlockHash: 1324
+====================
+blockHash: 1360
+blockNum: 69
+TimeOfArrival: 285.4871732514306
+parentBlockHash: 1351
+====================
+blockHash: 1397
+blockNum: 70
+TimeOfArrival: 288.09726732357643
+parentBlockHash: 1360
+====================
+blockHash: 1417
+blockNum: 71
+TimeOfArrival: 291.1172859072131
+parentBlockHash: 1397
+====================
+blockHash: 1420
+blockNum: 72
+TimeOfArrival: 292.04829661779473
+parentBlockHash: 1417
+====================
+blockHash: 1445
+blockNum: 73
+TimeOfArrival: 299.58962409326034
+parentBlockHash: 1420
+====================
+blockHash: 1477
+blockNum: 74
+TimeOfArrival: 303.2701174413023
+parentBlockHash: 1445
+====================
+blockHash: 1487
+blockNum: 75
+TimeOfArrival: 317.0678725853977
+parentBlockHash: 1477
+====================
+blockHash: 1509
+blockNum: 76
+TimeOfArrival: 320.88661457829966
+parentBlockHash: 1487
+====================
+blockHash: 1514
+blockNum: 76
+TimeOfArrival: 320.7658812639677
+parentBlockHash: 1487
+====================
+blockHash: 1531
+blockNum: 77
+TimeOfArrival: 328.2326640767497
+parentBlockHash: 1509
+====================
+blockHash: 1554
+blockNum: 78
+TimeOfArrival: 332.89062384960454
+parentBlockHash: 1531
+====================
+blockHash: 1558
+blockNum: 78
+TimeOfArrival: 332.68588674045395
+parentBlockHash: 1531
+====================
+blockHash: 1561
+blockNum: 79
+TimeOfArrival: 333.1679618806741
+parentBlockHash: 1558
+====================
+blockHash: 1585
+blockNum: 80
+TimeOfArrival: 338.9219077623105
+parentBlockHash: 1561
+====================
+blockHash: 1605
+blockNum: 81
+TimeOfArrival: 350.19699719565176
+parentBlockHash: 1585
+====================
+blockHash: 1630
+blockNum: 82
+TimeOfArrival: 358.53826902189525
+parentBlockHash: 1605
+====================
+blockHash: 1644
+blockNum: 83
+TimeOfArrival: 361.43121762367997
+parentBlockHash: 1630
+====================
+blockHash: 1671
+blockNum: 84
+TimeOfArrival: 363.29840171758195
+parentBlockHash: 1644
+====================
+blockHash: 1695
+blockNum: 85
+TimeOfArrival: 365.51225251718944
+parentBlockHash: 1671
+====================
+blockHash: 1715
+blockNum: 86
+TimeOfArrival: 366.59055423596004
+parentBlockHash: 1695
+====================
+blockHash: 1727
+blockNum: 87
+TimeOfArrival: 370.5268036951385
+parentBlockHash: 1715
+====================
+blockHash: 1747
+blockNum: 88
+TimeOfArrival: 372.66306095702464
+parentBlockHash: 1727
+====================
+blockHash: 1778
+blockNum: 89
+TimeOfArrival: 375.12250218914085
+parentBlockHash: 1747
+====================
+blockHash: 1794
+blockNum: 90
+TimeOfArrival: 392.491181343941
+parentBlockHash: 1778
+====================
+blockHash: 1813
+blockNum: 91
+TimeOfArrival: 394.8280071608558
+parentBlockHash: 1794
+====================
+blockHash: 1820
+blockNum: 92
+TimeOfArrival: 395.6472574289076
+parentBlockHash: 1813
+====================
+blockHash: 1847
+blockNum: 93
+TimeOfArrival: 397.4271271419016
+parentBlockHash: 1820
+====================
+blockHash: 1866
+blockNum: 94
+TimeOfArrival: 399.1927112674411
+parentBlockHash: 1847
+====================
